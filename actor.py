@@ -1,4 +1,6 @@
-import copy, pfrl, torch
+import copy
+import pfrl
+import torch
 
 
 class TweetRLActor:
